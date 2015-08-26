@@ -9,7 +9,7 @@
     "scrollbar"
   ],
   "dependencies": {
-    "perfect-scrollbar": "~0.5.1",
+    "cpem_perf_sb": "*",
     "angular": "*"
   },
   "authors": [
